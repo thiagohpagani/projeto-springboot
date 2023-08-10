@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.pagani</groupId>
 	<artifactId>springbootweb</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0.0</version>
 	<name>springbootweb</name>
 	<description>Spring Boot for To Do App</description>
 	<properties>
